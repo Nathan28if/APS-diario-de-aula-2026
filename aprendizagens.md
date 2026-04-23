@@ -22,6 +22,7 @@ Por fim, aplicamos o que aprendemos na etapa de Prototipagem de Telas. Nesta fas
 * Ciclos de Vida de Desenvolvimento de Software (SDLC). Foi muito interresante entender como a escolha entre os modelos Cascata, Ágil ou Espiral pode mudar completamente a forma como o projeto é gerido e entregue.
 
 **O que faria diferente se fosse recomeçar?**
+* Se fosse recomeçar, eu buscaria uma forma mais ágil de alinhar as ideias e opiniões do grupo logo no início. Talvez definindo critérios de votação ou momentos específicos para debates. 
 
 
 
